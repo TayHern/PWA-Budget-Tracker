@@ -1,0 +1,53 @@
+{
+    "shortname": "Budgeter",
+    "name": "Budget Tracker",
+
+    "icons": [
+        {
+            "src": "PWA-Budget-Tracker/public/icons/icon-512x512.png",
+            "size": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "PWA-Budget-Tracker/public/icons/icon-384x384.png",
+            "size": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "PWA-Budget-Tracker/public/icons/icon-192x192.png",
+            "size": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "PWA-Budget-Tracker/public/icons/icon-152x152.png",
+            "size": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "PWA-Budget-Tracker/public/icons/icon-144x144.png",
+            "size": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "PWA-Budget-Tracker/public/icons/icon-128x128.png",
+            "size": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "PWA-Budget-Tracker/public/icons/icon-96x96.png",
+            "size": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "PWA-Budget-Tracker/public/icons/icon-72x72.png",
+            "size": "72x72",
+            "type": "image/png"
+        }
+    ],
+
+    "start_url": "/",
+    "display": "standalone",
+    "description": "for those who want track their budget on and offline",
+    "theme_color": "#24941A",
+    "background_color": "#F2D596"
+}
